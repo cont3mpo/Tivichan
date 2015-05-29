@@ -7,7 +7,7 @@ tivichan-rec.sh - Grabar canales (también pueden editar el código con lo menci
 
 tivichan-on.sh - Encender el modulo de TV.
 
-Pueden agregarlos a /usr/local/bin para automatizarlos. 
+Pueden agregarlos a /usr/local/bin para automatizarlos. Se necesita MPlayer y MEncoder.
 
 Se usan desde una terminal, por ejemplo ver el canal 4: tivichan.sh 4
 
