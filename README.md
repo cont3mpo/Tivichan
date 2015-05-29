@@ -10,6 +10,7 @@ tivichan-on.sh - Encender el modulo de TV.
 Pueden agregarlos a /usr/local/bin para automatizarlos. 
 
 Se usan desde una terminal, por ejemplo ver el canal 4: tivichan.sh 4
+
 O grabar el canal 4: tivichan-rec.sh 4
 
 Para más instrucciones de como montar los modulos para tv, ver la guía: http://cont3mpo.blogspot.com/2009/09/ver-y-grabar-tv-en-linux.html
