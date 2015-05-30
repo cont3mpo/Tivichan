@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ $# != 1 ]
 then
-echo "Uso: tv <canal>"
+echo "Uso: tivichan.sh <canal>"
 else
 if [ -z $1 ]
 then
