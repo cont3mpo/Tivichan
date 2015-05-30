@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ $1 = "-h" -o $1 = "--help" -o $1 = "-help" -o $1 = "help" -o $# -gt 3 ]
 then
-echo -e "Use: grabar [-h] | [channel [output_file [length] ]  ]"
+echo -e "Uso: tivichan-rec.sh [-h] | [channel [output_file [length] ]  ]"
 exit
 fi
 if [ -z $1 ]
